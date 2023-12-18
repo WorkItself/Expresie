@@ -3,7 +3,7 @@
 #include <vector>
 
 using namespace std;
-
+//something inapropriate
 unsigned prioritate(char op)
 {
 	if(op == '(' || op == ')') return 0;
